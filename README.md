@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/nhemchan-banner.gif" alt="Nhem Chan animated banner" width="100%">
+
 # 👋 Hi, I'm Nhem Chan
 
 ### 💻 Developer · 🤖 AI & Automation · 🎥 Live Production · 🖥️ IT Support
@@ -7,8 +9,8 @@
 **Building practical software, reliable systems, and creative technical workflows from Cambodia 🇰🇭**
 
 <p>
-  <a href="https://github.com/nhemchan98"><img src="https://img.shields.io/badge/GitHub-nhemchan98-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:nhem.chan.98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/nhemchan98"><img src="https://img.shields.io/badge/GitHub-nhemchan98-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="mailto:nhem.chan.98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 </div>
@@ -32,7 +34,6 @@ I'm **Nhem Chan**, a technology-focused builder working across software, AI, IT,
 ## 🛠️ Tech Stack
 
 ### 💻 Development
-
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -42,17 +43,7 @@ I'm **Nhem Chan**, a technology-focused builder working across software, AI, IT,
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white">
 </p>
 
-### 🗄️ Backend & Database
-
-<p>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-</p>
-
 ### 🤖 AI & Automation
-
 <p>
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
@@ -61,7 +52,6 @@ I'm **Nhem Chan**, a technology-focused builder working across software, AI, IT,
 </p>
 
 ### 🎥 Live Production & IT
-
 <p>
 <img src="https://img.shields.io/badge/vMix-Live_Production-111111?style=flat-square">
 <img src="https://img.shields.io/badge/Windows-IT_Support-0078D4?style=flat-square&logo=windows&logoColor=white">
@@ -86,16 +76,11 @@ I'm **Nhem Chan**, a technology-focused builder working across software, AI, IT,
 
 ## 🎥 Live Production
 
-I also work outside traditional software development.
-
-**vMix / Live Production**
-
-- 🎥 Live streaming
-- 🎛️ vMix production workflows
-- 📡 RTMP streaming
+- 🎥 **vMix Live Production**
+- 📡 RTMP / streaming workflows
 - 📹 Multi-camera setups
-- 🖥️ Live PC / technical troubleshooting
-- 🔧 On-site technical support
+- 🖥️ Live PC and technical troubleshooting
+- 🔧 Technical support for live environments
 
 > **Software should work. Live systems should keep working.**
 
@@ -103,13 +88,11 @@ I also work outside traditional software development.
 
 ## 🤖 AI Lab
 
-Currently exploring practical AI rather than AI for the sake of AI.
-
 ```text
 Gemini
   ├── Research
-  ├── Content workflows
-  └── AI assistants
+  ├── AI assistants
+  └── Content workflows
 
 Ollama
   ├── Local LLM
@@ -129,24 +112,11 @@ Telegram
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nhemchan98&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhemchan98&layout=compact&theme=github_dark&hide_border=true" height="165">
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=nhemchan98&theme=github-dark-blue&hide_border=true" width="70%">
-
-</div>
-
----
-
-## 📈 Contribution
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhemchan98&theme=github-compact&hide_border=true&area=true" width="95%">
 
 </div>
 

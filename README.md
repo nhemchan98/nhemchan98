@@ -4,7 +4,7 @@
 
 <br>
 
-# 👋 Hi, I'm Nhem Chan
+# 👋 Welcome to my GitHub
 
 ### 💻 Developer · 🤖 AI & Automation · 🎥 Live Production · 🖥️ IT Support
 

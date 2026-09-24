@@ -4,99 +4,107 @@
 
 # 👋 Hi, I'm Nhem Chan
 
-**Developer • AI & Automation • Live Production • IT Support**
+### 💻 Developer · 🤖 AI & Automation · 🎥 Live Production · 🖥️ IT Support
 
-I like building things, fixing things, and figuring out how technology can make everyday work easier.
+**I like building things, fixing things, and making technology useful.**
 
 🇰🇭 Cambodia
 
 <p>
-<a href="https://github.com/nhemchan98">GitHub</a> ·
-<a href="https://nhemchan98.github.io">Portfolio</a> ·
-<a href="mailto:nhem.chan.98@gmail.com">Email</a> ·
-<a href="https://t.me/nhemchan">Telegram</a>
+<a href="https://github.com/nhemchan98">🐙 GitHub</a> ·
+<a href="https://nhemchan98.github.io">🌐 Portfolio</a> ·
+<a href="mailto:nhem.chan.98@gmail.com">📧 Email</a> ·
+<a href="https://t.me/nhemchan">💬 Telegram</a>
 </p>
+
+<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-22C55E?style=flat-square">
+<img src="https://img.shields.io/badge/Updated-Sep%202026-6366F1?style=flat-square">
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-I'm Nhem Chan. My work sits somewhere between **software development, AI, IT support, and live production**.
+I'm **Nhem Chan**. My work sits somewhere between **software development, AI, IT support, and live production**.
 
-I started with hands-on troubleshooting and gradually became more interested in building my own tools and systems. These days I spend my time working on web projects, Telegram bots, AI experiments, Windows and PC problems, and live streaming setups.
+I started with hands-on troubleshooting and gradually became more interested in building my own tools and systems. These days I work on web projects, Telegram bots, AI experiments, Windows/PC problems, and live streaming setups.
 
-I don't really like building projects just to say I built them. I prefer projects that solve an actual problem or make something easier.
-
----
-
-## What I work with
-
-**Development**
-
-`TypeScript` `JavaScript` `Python` `Node.js` `Astro` `Hono`
-
-**AI & Automation**
-
-`Gemini` `Ollama` `LLMs` `Telegram Bots`
-
-**Live & IT**
-
-`vMix` `Live Streaming` `RTMP` `Windows` `PC Hardware` `Networking`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `SQLite` `Supabase`
+I prefer building things that solve a real problem or make someone's work a little easier.
 
 ---
 
-## Some things I've built
+## 🧩 What I Work With
 
-### 🤖 Telegram Research Bot
-A Telegram bot for researching topics and working with AI-assisted workflows.
+### 💻 Development
+`TypeScript` · `JavaScript` · `Python` · `Node.js` · `Astro` · `Hono`
 
-### 🌦️ Weather Telegram Bot
-A monitoring bot that checks weather information and sends notifications when conditions meet the configured rules.
+### 🤖 AI & Automation
+`Gemini` · `Ollama` · `LLMs` · `Telegram Bots`
 
-### 🎬 MP4Box Splitter
-A desktop tool I'm working on for splitting large video files with a simple GUI.
+### 🎥 Live Production & IT
+`vMix` · `Live Streaming` · `RTMP` · `Windows` · `PC Hardware` · `Networking`
 
-### 🏪 KNG Electronics
-A web and management system idea for an electronics business, including products, inventory, and day-to-day operations.
-
-You can find my projects here:
-
-**[→ View my repositories](https://github.com/nhemchan98?tab=repositories)**
+### 🛠️ Tools & Infrastructure
+`Git` · `GitHub` · `Docker` · `SQLite` · `Supabase`
 
 ---
 
-## 🎥 Outside of coding
+## 🚀 Things I've Built
 
-I also spend time working with **vMix and live production**.
+| Project | What it does |
+|---|---|
+| 🤖 **Telegram Research Bot** | AI-assisted research and Telegram automation |
+| 🌦️ **Weather Telegram Bot** | Weather monitoring and automated notifications |
+| 🎬 **MP4Box Splitter** | Desktop video splitting with a simple GUI |
+| 🏪 **KNG Electronics** | Web and management system for an electronics business |
 
-That includes live streaming, multi-camera setups, PC preparation, troubleshooting, and making sure everything keeps running when the stream is live.
-
-It's a different kind of problem solving — when something breaks during a live show, there isn't much time to debug it. 😄
-
----
-
-## 🤖 What I'm learning
-
-Right now I'm especially interested in:
-
-- Building better AI-powered tools
-- Local LLMs with Ollama
-- Automation with Python and TypeScript
-- Better backend and API architecture
-- Desktop applications
-- Reliable live production workflows
-
-I'm still learning, experimenting, breaking things, and fixing them again.
+**[🔎 View all my repositories →](https://github.com/nhemchan98?tab=repositories)**
 
 ---
 
-## 📊 GitHub
+## 🎥 Live Production
+
+I also work with **vMix and live production**.
+
+That means live streaming, multi-camera setups, PC preparation, troubleshooting, and keeping things running when the stream is already live.
+
+| 🎯 Area | 🔧 What I Work On |
+|---|---|
+| 🎥 vMix | Live switching & production |
+| 📡 Streaming | RTMP & live delivery |
+| 📹 Cameras | Multi-camera workflows |
+| 🖥️ IT | Windows, PC & hardware |
+| 🛠️ Support | Troubleshooting & system setup |
+
+> **When a live system is running, there isn't much time to debug. 😄**
+
+---
+
+## 🤖 AI & Automation
+
+I'm interested in AI that is useful in everyday work.
+
+```text
+🧠 Gemini
+   ├─ Research
+   ├─ AI assistants
+   └─ Automation
+
+💻 Ollama
+   ├─ Local LLMs
+   ├─ Development
+   └─ Experiments
+
+📨 Telegram
+   ├─ Research Bot
+   ├─ Notifications
+   └─ Automated workflows
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -112,21 +120,36 @@ I'm still learning, experimenting, breaking things, and fixing them again.
 
 ---
 
-## 📫 Get in touch
+## 📚 Currently Learning
 
-If you want to talk about a project, technology, AI, live production, or just want to say hello:
+- 🧠 Practical AI & local LLMs
+- ⚙️ Automation with Python and TypeScript
+- 🏗️ Better backend and API architecture
+- 🖥️ Desktop application development
+- 🎥 More reliable live production workflows
 
-- **GitHub:** [@nhemchan98](https://github.com/nhemchan98)
-- **Email:** [nhem.chan.98@gmail.com](mailto:nhem.chan.98@gmail.com)
-- **Telegram:** [@nhemchan](https://t.me/nhemchan)
-- **Portfolio:** [nhemchan98.github.io](https://nhemchan98.github.io)
+---
+
+## 📫 Connect
+
+<p align="center">
+<a href="https://github.com/nhemchan98">🐙 GitHub</a>
+&nbsp; • &nbsp;
+<a href="mailto:nhem.chan.98@gmail.com">📧 Email</a>
+&nbsp; • &nbsp;
+<a href="https://t.me/nhemchan">💬 Telegram</a>
+&nbsp; • &nbsp;
+<a href="https://nhemchan98.github.io">🌐 Portfolio</a>
+</p>
 
 ---
 
 <div align="center">
 
-### Build something useful. Learn something new. Keep going. 🚀
+### ⚡ BUILD · LEARN · FIX · AUTOMATE
 
-**Thanks for stopping by.**
+**Thanks for stopping by. 🇰🇭**
+
+<sub>Last updated · September 2026</sub>
 
 </div>
